@@ -1,0 +1,13 @@
+---
+layout: default
+title: glottman anteprima
+modal-id: 1
+date: 2017-07-18
+img: glott_hp.png
+alt: image-alt
+project-date: October 2013 - present
+client: glottman anteprima
+category: Web Development
+description: <a href="http://glottman.com" target="_blank">Glottman Anteprima</a> is an all-inclusive architectural firm.  The site was built on the Wordpress CMS platform and customized extensively to fit the clients needs.  Currently, I manage and market this site and three micro sites belonging to the same brand.
+
+---
